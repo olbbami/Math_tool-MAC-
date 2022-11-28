@@ -1,7 +1,7 @@
 package git_practice1;
 
 public class Calculator {
-	// 계산기 
+	// 기본 계산기 
 	public int add(int a, int b, int c) {
 		
 		return a+b+c;
